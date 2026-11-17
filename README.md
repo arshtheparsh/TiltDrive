@@ -6,7 +6,11 @@ Tilt your hand forward and the car drives forward. Tilt left and it turns left. 
 
 ![TiltDrive car and glove](images/tiltdrive.jpg)
 
-> 🎥 **Demo video:** [Watch TiltDrive in action](#) <!-- replace # with your video link -->
+> 🎥 **Demo video:** 
+
+https://github.com/user-attachments/assets/2233707e-ea5b-4bf0-985d-18eba256cf2f
+
+ <!-- replace # with your video link -->
 
 ---
 
